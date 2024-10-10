@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.17">
+  <diagram name="Página-1" id="z1ePF9_-NsvQ25oyTqJE">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-2" target="vG6fQvwyBhGuzSm6WQst-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-2" value="início" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="285" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-4" target="vG6fQvwyBhGuzSm6WQst-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-4" value="Movimentar-se" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="100" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-6" target="vG6fQvwyBhGuzSm6WQst-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-6" value="Procurar&lt;div&gt;chave&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-9" target="vG6fQvwyBhGuzSm6WQst-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-9" value="Abrir&lt;div&gt;Porta&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-14" target="vG6fQvwyBhGuzSm6WQst-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-14" value="Combater o primeiro Zumbi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-52" target="vG6fQvwyBhGuzSm6WQst-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-26" target="vG6fQvwyBhGuzSm6WQst-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-26" value="Mover-se até o Zumbi Chefe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-28" target="vG6fQvwyBhGuzSm6WQst-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-28" value="Mover-se até o Robô" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-29" target="vG6fQvwyBhGuzSm6WQst-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-29" target="0nFb9wlbn_VcrFVd8Ukg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-29" value="Combate com o Zumbi Chefe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-32" target="vG6fQvwyBhGuzSm6WQst-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-32" value="Tentar acionar o suporte" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="450" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-34" target="vG6fQvwyBhGuzSm6WQst-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="445" />
+              <mxPoint x="360" y="475" />
+              <mxPoint x="410" y="475" />
+              <mxPoint x="410" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-34" target="vG6fQvwyBhGuzSm6WQst-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-34" value="Rolagem de dado (D6)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="420" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-36" target="vG6fQvwyBhGuzSm6WQst-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-36" value="Robô aciona o Helicóptero" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="535" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-43" value="Sucesso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="231" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-47" target="vG6fQvwyBhGuzSm6WQst-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-47" value="Helicóptero joga o barril nas costas do Zumbi Chefe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="100" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-50" value="FIM! (Vencedor/Vivo)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="660" width="160" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="t4zEG5yi_peRndDP4G0M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vG6fQvwyBhGuzSm6WQst-52" target="vG6fQvwyBhGuzSm6WQst-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-52" value="Segunda&amp;nbsp;&lt;div&gt;Área&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vG6fQvwyBhGuzSm6WQst-82" value="Falha" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="361" y="453" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-11" value="FIM! (Perdedor/Morto)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="160" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-13" value="Sobreviveu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="647" y="590" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0nFb9wlbn_VcrFVd8Ukg-14" value="Morreu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="658" y="488" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
